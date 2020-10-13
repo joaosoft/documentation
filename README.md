@@ -1,4 +1,4 @@
-json
+documentation
 ================
 
 [![Build Status](https://travis-ci.org/joaosoft/documentation.svg?branch=master)](https://travis-ci.org/joaosoft/documentation) | [![codecov](https://codecov.io/gh/joaosoft/documentation/branch/master/graph/badge.svg)](https://codecov.io/gh/joaosoft/documentation) | [![Go Report Card](https://goreportcard.com/badge/github.com/joaosoft/documentation)](https://goreportcard.com/report/github.com/joaosoft/documentation) | [![GoDoc](https://godoc.org/github.com/joaosoft/documentation?status.svg)](https://godoc.org/github.com/joaosoft/documentation)
